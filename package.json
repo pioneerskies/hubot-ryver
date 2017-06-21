@@ -29,6 +29,6 @@
     "npm" : ">=1.1.x"
   },
   "dependencies": {
-    "ratatoskr": "git+https://github.com/ryverapp/ratatoskr.git#1.0.0"
+    "ratatoskr": "git+https://github.com/ryverapp/ratatoskr.git"
   }
 }
